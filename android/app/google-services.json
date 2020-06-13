@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "83596930949",
+    "firebase_url": "https://todo-list-vnr.firebaseio.com",
+    "project_id": "todo-list-vnr",
+    "storage_bucket": "todo-list-vnr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83596930949:android:6efae13e5104c0c0d95eec",
+        "android_client_info": {
+          "package_name": "com.mohanth.firebase_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83596930949-attq7qvub46ehm7arcrlu91etskndd8v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohanth.firebase_tutorial",
+            "certificate_hash": "5bfb6318f4d10823651d4431697014a7fa8f8f33"
+          }
+        },
+        {
+          "client_id": "83596930949-82l5u8o86o2bqj0bth2bg61vk4vq1qmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu74_as2xdrg-psg8h5F-ES_a2nsPyugg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83596930949-82l5u8o86o2bqj0bth2bg61vk4vq1qmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
